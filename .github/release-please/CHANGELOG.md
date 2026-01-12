@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.50.1](https://github.com/thomaspoignant/go-feature-flag/compare/v1.50.0...v1.50.1) (2026-01-12)
+
+
+### 🔧 Chores
+
+* Bump @types/react in /examples/openfeature_react/react-app ([#4608](https://github.com/thomaspoignant/go-feature-flag/issues/4608)) ([2437f7d](https://github.com/thomaspoignant/go-feature-flag/commit/2437f7dd463d53bb31a272fb8236e7b24804d14f))
+* Bump @typescript-eslint/eslint-plugin ([#4609](https://github.com/thomaspoignant/go-feature-flag/issues/4609)) ([3022fc3](https://github.com/thomaspoignant/go-feature-flag/commit/3022fc30a008177668bb6c69b207566d057076e6))
+* Bump cloud.google.com/go/storage from 1.58.0 to 1.59.0 ([#4602](https://github.com/thomaspoignant/go-feature-flag/issues/4602)) ([2d6fff7](https://github.com/thomaspoignant/go-feature-flag/commit/2d6fff79649a3ad0b8adff31191759f7255b0f13))
+* Bump github.com/aws/aws-sdk-go-v2 from 1.41.0 to 1.41.1 ([#4603](https://github.com/thomaspoignant/go-feature-flag/issues/4603)) ([af6b0c5](https://github.com/thomaspoignant/go-feature-flag/commit/af6b0c5665dfe309dc154b7ec44b0eac33cb064c))
+* Bump github.com/aws/aws-sdk-go-v2/config from 1.32.6 to 1.32.7 ([#4607](https://github.com/thomaspoignant/go-feature-flag/issues/4607)) ([08e8c0f](https://github.com/thomaspoignant/go-feature-flag/commit/08e8c0f3d792e847a581a2d8384bc1456fb01a3a))
+* Bump github.com/aws/aws-sdk-go-v2/feature/s3/manager ([#4604](https://github.com/thomaspoignant/go-feature-flag/issues/4604)) ([9a21d53](https://github.com/thomaspoignant/go-feature-flag/commit/9a21d5383c68095d335e59dce434953712928cb0))
+* Bump github.com/aws/aws-sdk-go-v2/service/kinesis ([#4612](https://github.com/thomaspoignant/go-feature-flag/issues/4612)) ([fec75dd](https://github.com/thomaspoignant/go-feature-flag/commit/fec75dd3e9fec0ee0c9185e5e0e623133cf0595a))
+* Bump github.com/aws/aws-sdk-go-v2/service/sqs ([#4606](https://github.com/thomaspoignant/go-feature-flag/issues/4606)) ([20cc246](https://github.com/thomaspoignant/go-feature-flag/commit/20cc246d3e60c4e5c5e73561f3bf1fcf8d77777d))
+* bump helm chart version to 1.50.0 and fix Makefile usage instructions ([#4596](https://github.com/thomaspoignant/go-feature-flag/issues/4596)) ([b7b3497](https://github.com/thomaspoignant/go-feature-flag/commit/b7b34977f59157ef14e545e08b177f021b7a1073))
+* Bump vite in /examples/openfeature_react/react-app ([#4611](https://github.com/thomaspoignant/go-feature-flag/issues/4611)) ([807f249](https://github.com/thomaspoignant/go-feature-flag/commit/807f249e4990380cb905f3d1b5eaa5b30754b263))
+
+
+### 📚 Documentation
+
+* add comment explaining parquet-go replace directive ([#4600](https://github.com/thomaspoignant/go-feature-flag/issues/4600)) ([ec8a294](https://github.com/thomaspoignant/go-feature-flag/commit/ec8a294656e0b2c55c04df6e4c910f392d4f3154))
+
 ## [1.50.0](https://github.com/thomaspoignant/go-feature-flag/compare/v1.49.0...v1.50.0) (2026-01-09)
 
 
